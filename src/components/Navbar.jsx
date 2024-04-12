@@ -2,7 +2,7 @@ const Navbar = () => {
     return (
         <div className="Navbar">
             <div className="container">
-                <div className="navbar navbar-expand-md fixed-top" style={{ backgroundColor: '#F5F7F8' }} >
+                <div className="navbar navbar-expand-md fixed-top shadow p-3 mb-5 bg-body-tertiary rounded" style={{backgroundColor: '#fff'}} >
                     <div className="container-xxl">
                         <a href="/" className="navbar-brand ml-3 ">
                             <img src="https://locations.meetsoci.com/farmerssites/images/local-page/farmers-logo-hd.56570851.svg" alt="Farmers Logo" width="100px" />

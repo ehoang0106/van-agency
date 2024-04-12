@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f6fafe;
 }
 
 code {
@@ -14,4 +15,8 @@ code {
 
 .custom-hover:hover {
   color: #0C359E;
+}
+
+.App {
+  margin-top: 100px;
 }
